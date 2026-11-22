@@ -1,0 +1,25 @@
+# Muro 1 | comprimento 166 m (s 0 a 166) | H min 2.0 max 11.5 | cota base min 772.5 topo max 810.0 | face 1319 (tabela 1319) terramesh 1224 gabiao 95 | pecas conferem: True
+   caixa terramesh 1224 m3, gabiao 212.00 m3, rachao 1,15x = 1651.4 (tabela 1655) | Maccaferri R$ 750620.72 (R$ 569.08/m2) | MO R$ 163020.00 | rachao m3/m2 1.255 | geo m2/m2 2.009 | pol kg/m2 terramesh 1.299
+   H 0-3 m:   6 m de muro | por metro: face 2.7 m2, pecas 0,5: 0.00, pecas 1,0: 0.00, gabiao 5.95 m3, rachao 6.84 m3 | Maccaferri R$ 1138/m, MO R$ 625/m
+   H 3-5 m:  20 m de muro | por metro: face 4.5 m2, pecas 0,5: 0.20, pecas 1,0: 0.15, gabiao 8.81 m3, rachao 10.71 m3 | Maccaferri R$ 1960/m, MO R$ 983/m
+   H 5-7 m:  32 m de muro | por metro: face 6.6 m2, pecas 0,5: 2.38, pecas 1,0: 2.09, gabiao 0.00 m3, rachao 7.55 m3 | Maccaferri R$ 3588/m, MO R$ 755/m
+   H 7-9 m:  56 m de muro | por metro: face 8.2 m2, pecas 0,5: 3.25, pecas 1,0: 2.50, gabiao 0.00 m3, rachao 9.49 m3 | Maccaferri R$ 4662/m, MO R$ 949/m
+   H 9-12 m:  52 m de muro | por metro: face 10.4 m2, pecas 0,5: 4.08, pecas 1,0: 3.17, gabiao 0.00 m3, rachao 11.99 m3 | Maccaferri R$ 6321/m, MO R$ 1199/m
+# Muro 2 | comprimento 38 m (s 44 a 82) | H min 1.0 max 3.0 | cota base min 809.5 topo max 815.0 | face 82 (tabela 82) terramesh 0 gabiao 82 | pecas conferem: True
+   caixa terramesh 0 m3, gabiao 124.25 m3, rachao 1,15x = 142.9 (tabela 145) | Maccaferri R$ 25365.16 (R$ 309.33/m2) | MO R$ 13046.25 | rachao m3/m2 1.768 | geo m2/m2 1.646 | pol kg/m2 terramesh 0.000
+   H 0-3 m:  38 m de muro | por metro: face 2.2 m2, pecas 0,5: 0.00, pecas 1,0: 0.00, gabiao 3.27 m3, rachao 3.76 m3 | Maccaferri R$ 668/m, MO R$ 343/m
+# Muro 3 | comprimento 158 m (s 2 a 160) | H min 1.5 max 11.5 | cota base min 773.0 topo max 806.0 | face 1071 (tabela 1071) terramesh 927 gabiao 144 | pecas conferem: True
+   caixa terramesh 927 m3, gabiao 254.25 m3, rachao 1,15x = 1358.4 (tabela 1360) | Maccaferri R$ 576478.70 (R$ 538.26/m2) | MO R$ 133301.25 | rachao m3/m2 1.270 | geo m2/m2 1.993 | pol kg/m2 terramesh 1.262
+   H 0-3 m:  32 m de muro | por metro: face 2.2 m2, pecas 0,5: 0.00, pecas 1,0: 0.00, gabiao 3.97 m3, rachao 4.57 m3 | Maccaferri R$ 784/m, MO R$ 417/m
+   H 3-5 m:  18 m de muro | por metro: face 4.0 m2, pecas 0,5: 0.00, pecas 1,0: 0.00, gabiao 7.06 m3, rachao 8.12 m3 | Maccaferri R$ 1394/m, MO R$ 742/m
+   H 5-7 m:  16 m de muro | por metro: face 6.3 m2, pecas 0,5: 2.19, pecas 1,0: 2.06, gabiao 0.00 m3, rachao 7.26 m3 | Maccaferri R$ 3367/m, MO R$ 726/m
+   H 7-9 m:  58 m de muro | por metro: face 8.1 m2, pecas 0,5: 3.16, pecas 1,0: 2.47, gabiao 0.00 m3, rachao 9.30 m3 | Maccaferri R$ 4511/m, MO R$ 930/m
+   H 9-12 m:  34 m de muro | por metro: face 10.5 m2, pecas 0,5: 3.85, pecas 1,0: 3.32, gabiao 0.00 m3, rachao 12.07 m3 | Maccaferri R$ 6200/m, MO R$ 1208/m
+# Muro 4 | comprimento 118 m (s 0 a 118) | H min 6.5 max 10.0 | cota base min 786.0 topo max 816.0 | face 936 (tabela 936) terramesh 936 gabiao 0 | pecas conferem: True
+   caixa terramesh 936 m3, gabiao 49.50 m3, rachao 1,15x = 1133.3 (tabela 1135) | Maccaferri R$ 516265.52 (R$ 551.57/m2) | MO R$ 112837.50 | rachao m3/m2 1.213 | geo m2/m2 2.014 | pol kg/m2 terramesh 1.197
+   H 5-7 m:  40 m de muro | por metro: face 6.8 m2, pecas 0,5: 2.80, pecas 1,0: 2.02, gabiao 0.36 m3, rachao 8.29 m3 | Maccaferri R$ 3513/m, MO R$ 826/m
+   H 7-9 m:  74 m de muro | por metro: face 8.4 m2, pecas 0,5: 3.11, pecas 1,0: 2.65, gabiao 0.44 m3, rachao 10.18 m3 | Maccaferri R$ 4764/m, MO R$ 1013/m
+   H 9-12 m:   4 m de muro | por metro: face 10.0 m2, pecas 0,5: 4.00, pecas 1,0: 3.00, gabiao 0.53 m3, rachao 12.11 m3 | Maccaferri R$ 5805/m, MO R$ 1206/m
+TOTAL pecas {'0.5x1x5': 127, '0.5x1x6': 214, '0.5x1x7': 614, '0.5x1x8': 226, '1x1x5': 96, '1x1x6': 185, '1x1x7': 496, '1x1x8': 176}
+TOTAL Maccaferri R$ 1868730.10 (proposta 1.869.671,63)
+PU com IPI: {'0.5x1x5': 618.55, '0.5x1x6': 687.71, '0.5x1x7': 718.84, '0.5x1x8': 796.85, '1x1x5': 745.41, '1x1x6': 812.4, '1x1x7': 844.49, '1x1x8': 927.03, 'g05': 239.02, 'g10': 174.55, 'pol': 16.02, 'g4r': 11.64, 'geo': 4.7}
